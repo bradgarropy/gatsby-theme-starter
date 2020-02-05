@@ -23,7 +23,7 @@
         "url": "https://github.com/bradgarropy/gatsby-theme-starter"
     },
     "scripts": {
-        "start": ""
+        "test": "jest --passWithNoTests --silent --color"
     },
     "dependencies": {},
     "devDependencies": {
@@ -33,6 +33,7 @@
         "eslint-plugin-jsx-a11y": "^6.2.3",
         "eslint-plugin-react": "^7.17.0",
         "eslint-plugin-react-hooks": "^2.3.0",
+        "jest": "^25.1.0",
         "prettier": "^1.19.1"
     },
     "peerDependencies": {}
