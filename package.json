@@ -8,7 +8,7 @@
         "prettier",
         "eslint"
     ],
-    "homepage": "https://github.com/bradgarropy/gatsby-theme-starter",
+    "homepage": "https://www.npmjs.com/package/gatsby-theme-starter",
     "bugs": {
         "url": "https://github.com/bradgarropy/gatsby-theme-starter/issues"
     },
