@@ -20,10 +20,6 @@ jobs:
               run: npm install
             - name: "🧪 test"
               run: npm run test
-            - name: "👖 coveralls"
-              uses: coverallsapp/github-action@v1.0.1
-              with:
-                  github-token: ${{ secrets.GITHUB_TOKEN }}
             - name: "🚀 publish"
               run: npm publish
               env:
